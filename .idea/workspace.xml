@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c956eec5-a4c0-41df-845d-537eaf924a6e" name="Changes" comment="" />
+    <list default="true" id="c956eec5-a4c0-41df-845d-537eaf924a6e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ChallengeExercise.executor": "Run",
     "Application.Exercise2.executor": "Run",
     "Application.Exercise3.executor": "Run",
     "Application.Exercise4.executor": "Run",
