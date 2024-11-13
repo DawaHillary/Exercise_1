@@ -33,6 +33,7 @@
   "keyToString": {
     "Application.Exercise2.executor": "Run",
     "Application.Exercise3.executor": "Run",
+    "Application.Exercise4.executor": "Run",
     "Application.Lab3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
